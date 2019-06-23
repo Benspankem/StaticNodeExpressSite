@@ -1,0 +1,88 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "This page will print out a random quote from the array when a user click a button.",
+            "technologies": [
+                "javascript",
+                "css",
+                "html"
+            ],
+            "live_link": "https://benspankem.github.io/RandomQuoteGenerator/",
+            "github_link": "https://github.com/Benspankem/RandomQuoteGenerator",
+            "image_urls": [
+                "../static/images/RandomQuote/RQ550x550.png",
+                "../static/images/RandomQuote/RQ1200x550.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Pagination",
+            "description": "This is a dynamic pagination & filtering page with a real time search input.",
+            "technologies": [
+                "javascript",
+                "css",
+                "html"
+            ],
+            "live_link": "https://benspankem.github.io/Pagination-Filtering/.",
+            "github_link": "https://github.com/Benspankem/Pagination-Filtering",
+            "image_urls": [
+                "../static/images/pagination/Page550x550.png",
+                "../static/images/pagination/Page1200x550.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Form Validation",
+            "description": "Here you can see an interactive form be validating as you type.",
+            "technologies": [
+                "javascript",
+                "css",
+                "html",
+                "JQuery"
+            ],
+            "live_link": "https://benspankem.github.io/interactiveForm/",
+            "github_link": "https://github.com/Benspankem/interactiveForm",
+            "image_urls": [
+                "../static/images/interactiveform/Form550x550.png",
+                "../static/images/interactiveform/Form1200x550.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Phrase Hunter Game",
+            "description": "This is a game where you try to guess what is the phrase. Almost like tic tac toe",
+            "technologies": [
+                "javascript",
+                "css",
+                "html",
+                "JQuery",
+                "AJAX"
+            ],
+            "live_link": "https://benspankem.github.io/OppGameShowApp/",
+            "github_link": "https://github.com/Benspankem/OppGameShowApp",
+            "image_urls": [
+                "../static/images/PhraseHunterGame/Game550x550.png",
+                "../static/images/PhraseHunterGame/Game1200x550.png"
+            ]
+        } ,
+        {
+            "id": 4,
+            "project_name": "Public API Request",
+            "description": "Here is an example of gathering external data to populate a list. This type of service is known as Public API.",
+            "technologies": [
+                "javascript",
+                "css",
+                "html"
+            ],
+            "live_link": "https://benspankem.github.io/PublicApiRequest/",
+            "github_link": "https://github.com/Benspankem/PublicApiRequest",
+            "image_urls": [
+                "../static/images/PublicAPI/API550x550.png",
+                "../static/images/PublicAPI/API1200x550.png"
+            ]
+        }
+
+    ]
+}
