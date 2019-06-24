@@ -1,7 +1,7 @@
 {
   "name": "staticnodeexpresssite",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using a templating language (express.js and pug) to create a portofolio of all the projects that I have completed for teamTreehouse's tech degree.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -12,6 +12,13 @@
   "dependencies": {
     "express": "^4.17.1",
     "pug": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benspankem/StaticNodeExpressSite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Benspankem/StaticNodeExpressSite/issues"
+  },
+  "homepage": "https://github.com/Benspankem/StaticNodeExpressSite#readme"
 }
-
