@@ -52,7 +52,7 @@
         {
             "id": 3,
             "project_name": "Phrase Hunter Game",
-            "description": "This is a game where you try to guess what is the phrase. Almost like tic tac toe",
+            "description": "This is a game where you try to guess what is the phrase. Almost like the game, Hang Man",
             "technologies": [
                 "javascript",
                 "css",
